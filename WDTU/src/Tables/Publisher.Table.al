@@ -1,12 +1,10 @@
 /// <summary>
-/// Table Radio Show Type (ID 50001).
+/// Table Publisher (ID 50007).
 /// </summary>
-table 50001 "Radio Show Type"
+table 50007 Publisher
 {
-    LookupPageId = "Radio Show Type";
-    DrillDownPageId = "Radio Show Type";
     DataClassification = ToBeClassified;
-    Caption = 'Radio Show Type';
+    Caption = 'Publisher';
 
     fields
     {
@@ -20,11 +18,15 @@ table 50001 "Radio Show Type"
             Caption = 'Description';
             DataClassification = ToBeClassified;
         }
+
     }
 
-    keys
-    {
-        key(PK; Code) { }
-    }
+    // keys
+    // {
+    //     key(PK; "MyField")
+    //     {
+    //         Clustered = true;
+    //     }
+    // }
 
 }
