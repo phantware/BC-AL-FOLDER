@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="AL BC">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 3534050887 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Course</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Course - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3534050887 - Field 1090351696 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Active</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Course - Field Active - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3534050887 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Course - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3534050887 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Course - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3534050887 - Field 1623047485 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Difficulty</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Course - Field Difficulty - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3534050887 - Field 1637095154 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Duration</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Course - Field Duration - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3534050887 - Field 2157851932 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>InstructorCode</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Course - Field InstructorCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3534050887 - Field 428774278 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>InstructorName</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Course - Field InstructorName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3534050887 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Course - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3534050887 - Field 2583239509 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Passingrate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Course - Field Passingrate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3534050887 - Field 3635338911 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Price</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Course - Field Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3534050887 - Field 1878130204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Course - Field Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1753691289 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Employee Table</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Employeee - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1753691289 - Field 577627295 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Empcode</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Employeee - Field Empcode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1753691289 - Field 1437200112 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Empdepartment</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Employeee - Field Empdepartment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1753691289 - Field 171147721 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EmpName</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Employeee - Field EmpName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1683152388 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Arithmetic Operation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Arithmetic - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1683152388 - Control 3567459362 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enter the values</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Arithmetic - Control Input - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1683152388 - Control 3961040049 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Result of the operation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Arithmetic - Control Output - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1683152388 - Action 2318734275 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Click to execute the code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Arithmetic - Action Add - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1683152388 - Action 2318734275 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Addition</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Arithmetic - Action Add - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1683152388 - Action 2610968549 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Click to execute the code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Arithmetic - Action Div - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1683152388 - Action 2610968549 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Divint</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Arithmetic - Action Div - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1683152388 - Action 551317709 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Click to execute the code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Arithmetic - Action Divide - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1683152388 - Action 551317709 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Division</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Arithmetic - Action Divide - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1683152388 - Action 2957999890 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Click to execute the code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Arithmetic - Action Mod - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1683152388 - Action 2957999890 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Modulus</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Arithmetic - Action Mod - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1683152388 - Action 3670794248 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Click to execute the code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Arithmetic - Action Multiply - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1683152388 - Action 3670794248 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Multiplication</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Arithmetic - Action Multiply - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1683152388 - Action 3363251360 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Click to execute the code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Arithmetic - Action Subtract - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1683152388 - Action 3363251360 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Subtraction</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Arithmetic - Action Subtract - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1158824803 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Course Details</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Course Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1158824803 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Course Card - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2634244209 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Course List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CourseList - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2634244209 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CourseList - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2742672811 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Employee Table Intro</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EmployeePage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1952317299 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Logical Expression Page</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ExpressionPage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1952317299 - Control 3567459362 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Get input from users</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ExpressionPage - Control Input - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1952317299 - Control 3961040049 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The result of the calculation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ExpressionPage - Control Output - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1952317299 - Action 3851712227 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Run</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ExpressionPage - Action Run - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1291780019 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Statement Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page StatementCard - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1291780019 - Control 3567459362 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Input</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page StatementCard - Control Input - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1291780019 - Control 3961040049 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Output</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page StatementCard - Control Output - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
