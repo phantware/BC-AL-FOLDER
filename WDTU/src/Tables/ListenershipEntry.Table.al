@@ -57,12 +57,16 @@ table 50006 "Listenership Entry"
 
     }
 
-    // keys
-    // {
-    //     key(PK; "MyField")
-    //     {
-    //         Clustered = true;
-    //     }
-    // }
+    keys
+    {
+        key(PK; "Entry No.")
+        {
+            Clustered = true;
+        }
+        key(Reporting; "Radio Show No.", Date, "Start Time", "Age Demographic")
+        {
+            SumIndexFields = "Listener Count", "Audience Share";
+        }
+    }
 
 }

@@ -18,6 +18,9 @@ table 50004 "Playlist Item Rate"
         {
             Caption = 'Source No.';
             DataClassification = ToBeClassified;
+            TableRelation = IF ("Source Type" = const(Vendor)) Vendor."No."
+            else
+            IF ("Source Type" = const(Customer)) Customer."No.";
         }
         field(30; "Item No."; Code[20])
         {

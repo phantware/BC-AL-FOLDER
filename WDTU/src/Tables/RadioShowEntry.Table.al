@@ -13,9 +13,9 @@ table 50005 "Radio Show Entry"
             Caption = 'Entry No.';
             DataClassification = ToBeClassified;
         }
-        field(10; "Radio Show"; Code[20])
+        field(10; "Radio Show No."; Code[20])
         {
-            Caption = 'Radio Show';
+            Caption = 'Radio Show No.';
             DataClassification = ToBeClassified;
         }
         field(20; Type; Option)
@@ -73,12 +73,20 @@ table 50005 "Radio Show Entry"
 
     }
 
-    // keys
-    // {
-    //     key(PK; "MyField")
-    //     {
-    //         Clustered = true;
-    //     }
-    // }
+    keys
+    {
+        key(PK; "Entry No.")
+        {
+            Clustered = true;
+        }
+        key(Reporting; "Radio Show No.", Date)
+        {
+            SumIndexFields = "Fee Amount";
+        }
+        key(Reporting2; Type, "No.", Date)
+        {
+            SumIndexFields = "Fee Amount";
+        }
+    }
 
 }

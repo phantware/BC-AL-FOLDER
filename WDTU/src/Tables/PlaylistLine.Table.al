@@ -28,6 +28,11 @@ table 50003 "Playlist Line"
         {
             Caption = 'No.';
             DataClassification = ToBeClassified;
+            TableRelation = IF (Type = const(Resource)) Resource."No."
+            else
+            IF (Type = const(Show)) "Radio Show"."No."
+            else
+            IF (Type = const(Item)) Item."No.";
         }
         field(30; "Data Format"; Option)
         {
@@ -63,7 +68,7 @@ table 50003 "Playlist Line"
     }
     keys
     {
-        key(PK; "Document No.")
+        key(PK; "Document No.", "Line No.")
         {
             Clustered = true;
         }
