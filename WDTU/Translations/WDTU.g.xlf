@@ -413,6 +413,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Radio Show Type - Field Description - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 2875331390 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date Formula</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Date Formula - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Page 3876634282 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Radio Show Card</source>
           <note from="Developer" annotates="general" priority="2"></note>
