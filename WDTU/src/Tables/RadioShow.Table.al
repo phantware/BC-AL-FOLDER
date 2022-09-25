@@ -42,22 +42,31 @@ table 50000 "Radio Show"
         field(100; "Average Listeners"; Decimal)
         {
             Caption = 'Average Listeners';
-            DataClassification = CustomerContent;
+            Editable = false;
+            FieldClass = FlowField;
+            CalcFormula = average("Listenership Entry"."Listener Count" where("Radio Show No." = field("No."), Date = field("Date Filter")));
+
         }
         field(110; "Audience Share"; Decimal)
         {
             Caption = 'Audience Share';
-            DataClassification = CustomerContent;
+            Editable = false;
+            FieldClass = FlowField;
+            CalcFormula = average("Listenership Entry"."Audience Share" where("Radio Show No." = field("No."), Date = field("Date Filter")));
         }
         field(120; "Advertising Revenue"; Decimal)
         {
             Caption = 'Advertising Revenue';
-            DataClassification = CustomerContent;
+            Editable = false;
+            FieldClass = FlowField;
+            CalcFormula = sum("Radio Show Entry"."Fee Amount" where("Radio Show No." = field("No."), "Date Format" = filter(Advertisement)));
         }
         field(130; "Royalty Cost"; Decimal)
         {
             Caption = 'Royalty Cost';
-            DataClassification = CustomerContent;
+            Editable = false;
+            FieldClass = FlowField;
+            CalcFormula = sum("Radio Show Entry"."Fee Amount" where("Radio Show No." = field("No."), "Date Format" = filter(Vinyl | CD | MP3)));
         }
         field(1000; Frequency; Option)
         {
