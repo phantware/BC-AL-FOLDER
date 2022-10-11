@@ -1,9 +1,9 @@
 /// <summary>
 /// Page MyPage (ID 50000).
 /// </summary>
-page 50000 "MyPage"
+page 50000 "Booking"
 {
-    Caption = 'Caption';
+    Caption = 'Booking';
     PageType = Card;
     ApplicationArea = All;
     UsageCategory = Administration;
@@ -32,6 +32,11 @@ page 50000 "MyPage"
                 {
                     ApplicationArea = All;
                 }
+            }
+
+            part("Booking Line"; BookingListPart)
+            {
+                SubPageLink = "Booking No" = field("Booking No.");
             }
         }
     }

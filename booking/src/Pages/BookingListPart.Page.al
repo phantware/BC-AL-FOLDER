@@ -1,17 +1,12 @@
 /// <summary>
 /// Page Booking List (ID 50001).
 /// </summary>
-page 50001 "Booking List"
+page 50002 "BookingListPart"
 {
-    Caption = 'Booking List';
-    PageType = List;
-    UsageCategory = Lists;
-    ApplicationArea = All;
-    SourceTable = Booking;
-    CardPageId = Booking;
-    InsertAllowed = false;
-    DeleteAllowed = false;
-    ModifyAllowed = false;
+    Caption = 'Booking List Part';
+    PageType = ListPart;
+    SourceTable = "Booking Line";
+    AutoSplitKey = true;
 
     layout
     {
@@ -19,19 +14,23 @@ page 50001 "Booking List"
         {
             repeater(Group)
             {
-                field("Booking No."; Rec."Booking No.")
+                field("House No"; Rec."House No")
                 {
                     ApplicationArea = All;
                 }
-                field("Customer No."; Rec.Customer)
+                field("House Name"; Rec."House Name")
                 {
                     ApplicationArea = All;
                 }
-                field("Customer Name"; Rec."Customer Name")
+                field("Cost Per Unit"; Rec."Cost Per Unit")
                 {
                     ApplicationArea = All;
                 }
-                field("DateTime Created"; Rec."DateTime Created")
+                field("No of Nights"; Rec."No of Nights")
+                {
+                    ApplicationArea = All;
+                }
+                field("Line Total"; Rec."Line Total")
                 {
                     ApplicationArea = All;
                 }
