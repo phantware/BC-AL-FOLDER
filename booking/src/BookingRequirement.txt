@@ -1,0 +1,38 @@
+Booking
+
+BookingNo: Code 10
+Customer: Code 20 :  Table Relation : Customer
+Cusromer Name:
+Booking Date: Date
+DateTime Created : DateTime
+Created By : Code 20
+No Series : Code 10
+Amount : Decimal
+Status : OptionString Open,Pending,Approved,Reject,Posted
+Total Amount: flowfield
+
+Extend the resource type : Add the new enum (Room) resource type.
+
+Booking Line:
+LineNo: Integer
+BookingNo : Code 10
+House Booked :  Resource type : Resource : Room
+Cost Per Unit: Int
+No of Days :  Int
+Line Total : Dec
+
+No Series : x
+
+We use the below code to generate No Series
+
+if "No." = '' then begin
+   SalesSetp.get();
+   SalesSetup.TestField("Booking Nos.");
+   NoSeriesMgt.TestManual(SalesSetup."Booking Nos.",xRec."No. Series",0D,"No.","No. Series");
+end
+
+if "No." <> xRec."No." then begin
+    SalesSetup.get();
+    NoSeriesMgt.TestManual(SalesSetup."Booking Nos.");
+    "No. Series" := '';
+end
