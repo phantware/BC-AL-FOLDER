@@ -13,9 +13,9 @@ table 50000 Booking
             Editable = false;
             trigger OnValidate()
             begin
-                if "No." <> xRec."No." then begin
+                if "Booking No." <> xRec."Booking No." then begin
                     SalesSetup.Get();
-                    NoSeriesMgt.TesManual(SalesSetup."Booking Nos.");
+                    NoSeriesMgt.TestManual(SalesSetup."Booking Nos.");
                     "No. Series" := '';
                 end;
             end;
@@ -24,6 +24,14 @@ table 50000 Booking
         {
             Caption = 'Customer';
             TableRelation = Customer;
+
+            trigger OnValidate()
+            var
+                Cust: Record Customer;
+            begin
+                Cust.Get(Customer);
+                "Customer Name" := Cust.Name
+            end;
         }
         field(3; "Customer Name"; Text[100])
         {
@@ -65,5 +73,20 @@ table 50000 Booking
             Clustered = true;
         }
     }
+
+    var
+        SalesSetup: Record "Sales & Receivables Setup";
+        NoSeriesMgt: Codeunit NoSeriesManagement;
+
+    trigger OnInsert()
+    begin
+        if "Booking No." = '' then begin
+            SalesSetup.Get();
+            SalesSetup.TestField("Booking Nos.");
+            NoSeriesMgt.InitSeries(SalesSetup."Booking Nos.", xRec."No. Series", 0D, "Booking No.", "No. Series");
+        end;
+        "Created By" := UserId;
+        "DateTime Created" := CurrentDateTime;
+    end;
 
 }
