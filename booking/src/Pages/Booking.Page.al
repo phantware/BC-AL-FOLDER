@@ -32,6 +32,14 @@ page 50000 "Booking"
                 {
                     ApplicationArea = All;
                 }
+                field(Amount; Rec.Amount)
+                {
+                    ApplicationArea = All;
+                }
+                field("Total Amount"; Rec."Total Amount")
+                {
+                    ApplicationArea = All;
+                }
             }
 
             part("Booking Line"; BookingListPart)

@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="booking">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 3496392619 - Field 636392376 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Booking - Field Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3496392619 - Field 4154167234 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Booking No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Booking - Field Booking No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3496392619 - Field 2369664869 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Created By</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Booking - Field Created By - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3496392619 - Field 1994964448 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Booking - Field Customer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3496392619 - Field 1171137197 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Booking - Field Customer Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3496392619 - Field 2909261587 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DateTime Created</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Booking - Field DateTime Created - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3496392619 - Field 1351594800 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. Series</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Booking - Field No. Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3496392619 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Booking - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3496392619 - Field 3692706522 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Booking - Field Total Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3002683553 - Field 3302996836 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Booking No</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Booking Line - Field Booking No - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3002683553 - Field 2950733134 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cost Per Unit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Booking Line - Field Cost Per Unit - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3002683553 - Field 3402863029 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>House Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Booking Line - Field House Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3002683553 - Field 3946994327 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>House No</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Booking Line - Field House No - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3002683553 - Field 3123372377 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Booking Line - Field Line No - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3002683553 - Field 2820242056 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line Total</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Booking Line - Field Line Total - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3002683553 - Field 3245923425 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No of Nights</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Booking Line - Field No of Nights - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3496392619 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Booking</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Booking - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 323369109 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Booking List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Booking List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2154582008 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Booking List Part</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BookingListPart - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 666563314 - Field 906106983 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4145206282">
+          <source>Booking Nos.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SalesSetupExt - Field Booking Nos. - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

@@ -58,7 +58,14 @@ table 50000 Booking
             Caption = 'Amount';
             DataClassification = ToBeClassified;
         }
-        field(8; Status; Option)
+        field(8; "Total Amount"; Decimal)
+        {
+            Caption = 'Total Amount';
+            Editable = false;
+            FieldClass = FlowField;
+            CalcFormula = sum("Booking Line"."Line Total" where("Booking No" = field("Booking No.")));
+        }
+        field(9; Status; Option)
         {
             Caption = 'Status';
             OptionMembers = Open,Pending,Approved,Rejected,Posted;
