@@ -98,10 +98,25 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page BookingListPart - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 585426215 - Action 820898591 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Workflows</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page System Admin Role Center - Action Group 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 585426215 - Action 3461615370 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Users</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page System Admin Role Center - Action Group1 - Property Caption</note>
+        </trans-unit>
         <trans-unit id="TableExtension 666563314 - Field 906106983 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4145206282">
           <source>Booking Nos.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension SalesSetupExt - Field Booking Nos. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Profile 807083378 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>System Administrator</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Profile System Administrator - Property Caption</note>
         </trans-unit>
       </group>
     </body>
