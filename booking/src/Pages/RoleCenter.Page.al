@@ -9,20 +9,52 @@ page 50003 "System Admin Role Center"
     {
         area(RoleCenter)
         {
-
+            part(SystemAdminHeadline; "Headline RC System Admin")
+            {
+                Caption = 'System Admin Headline';
+                ApplicationArea = Basic, Suite;
+            }
         }
     }
 
     actions
     {
-        area(Creation)
+        area(Creation)  // Area of creation appears on the righ side of the page and enable you 
+                        // to create new items, it opens a card page
         {
-            action(ActionBarAction)
+            action(NewUser)
             {
+                Caption = 'User';
+                RunObject = page "User Card";
+                ApplicationArea = Basic, Suite;
                 // RunObject = Page ObjectName;
             }
+            action(NewWorkflow)
+            {
+                Caption = 'Workflow';
+                RunObject = page Workflow;
+                ApplicationArea = Basic, Suite;
+            }
         }
-        area(Sections) // We have Navigation Bat
+        area(Processing) // It enables you to open something like a journal etc
+        {
+            action(NewJoural)
+            {
+                Caption = 'Payment Recon Journal';
+                RunObject = page "Payment Reconciliation Journal";
+                ApplicationArea = Basic, Suite;
+            }
+        }
+        area(Reporting) // This is used for reporting purpose
+        {
+            action(GLRegisters)
+            {
+                Caption = 'GL Registers';
+                RunObject = report "Delete Empty G/L Registers";
+                ApplicationArea = Basic, Suite;
+            }
+        }
+        area(Sections) // We have Navigation Bar
         {
             group("Group1")
             {

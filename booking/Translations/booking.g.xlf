@@ -98,6 +98,46 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page BookingListPart - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 1676402639 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>System Admin Headline</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Headline RC System Admin - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1676402639 - NamedType 1814330811" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&lt;qualifier&gt;Users,&lt;/qualifier&gt;&lt;payload&gt;The number of logged on users &lt;emphasize&gt; %1 &lt;/emphasize&gt;&lt;/payload&gt;</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Headline RC System Admin - NamedType LoggedOnUsers</note>
+        </trans-unit>
+        <trans-unit id="Page 1676402639 - NamedType 3894558443" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&lt;qualifier&gt;The Site,&lt;/qualifier&gt;&lt;payload&gt;Visite the site.&lt;emphasize&gt;Phantare Technology&lt;/emphasize&gt;&lt;/payload&gt;</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Headline RC System Admin - NamedType SiteLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 585426215 - Control 314045936 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>System Admin Headline</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page System Admin Role Center - Control SystemAdminHeadline - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 585426215 - Action 424464927 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page System Admin Role Center - Action NewUser - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 585426215 - Action 524152577 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Workflow</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page System Admin Role Center - Action NewWorkflow - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 585426215 - Action 3023097629 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Recon Journal</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page System Admin Role Center - Action NewJoural - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 585426215 - Action 2726139539 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>GL Registers</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page System Admin Role Center - Action GLRegisters - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Page 585426215 - Action 820898591 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Workflows</source>
           <note from="Developer" annotates="general" priority="2"></note>
