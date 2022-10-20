@@ -116,7 +116,7 @@ page 50003 "System Admin Role Center"
                 RunObject = Page "User Setup";
                 ApplicationArea = Basic, Suite;
             }
-            action(Sessios)
+            action(Sessions)
             {
                 RunObject = page "Concurrent Session List";
                 ApplicationArea = Basic, Suite;

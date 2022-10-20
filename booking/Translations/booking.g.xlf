@@ -109,7 +109,7 @@
           <note from="Xliff Generator" annotates="general" priority="3">Page Headline RC System Admin - NamedType LoggedOnUsers</note>
         </trans-unit>
         <trans-unit id="Page 1676402639 - NamedType 3894558443" size-unit="char" translate="yes" xml:space="preserve">
-          <source>&lt;qualifier&gt;The Site,&lt;/qualifier&gt;&lt;payload&gt;Visite the site.&lt;emphasize&gt;Phantare Technology&lt;/emphasize&gt;&lt;/payload&gt;</source>
+          <source>&lt;qualifier&gt;The Site,&lt;/qualifier&gt;&lt;payload&gt;Visite the site.&lt;emphasize&gt;Phantware Technology&lt;/emphasize&gt;&lt;/payload&gt;</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Headline RC System Admin - NamedType SiteLbl</note>
         </trans-unit>

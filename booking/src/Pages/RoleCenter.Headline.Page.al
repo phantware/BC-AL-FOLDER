@@ -17,7 +17,7 @@ page 50004 "Headline RC System Admin"
                 ShowCaption = false;
                 Editable = false;
 
-                field(GreetingText; RCHeadlinePageCommon.GetGreetingText())
+                field(GreetingText; RCHeadlinePageCommon.GetGreetingText() + UserId)
                 {
                     ApplicationArea = Basic, Suite;
                     Editable = false;
@@ -73,7 +73,7 @@ page 50004 "Headline RC System Admin"
         [InDataSet]
         isGreetingTextVisible: Boolean;
 
-        SiteLbl: Label '<qualifier>The Site,</qualifier><payload>Visite the site.<emphasize>Phantare Technology</emphasize></payload>';
+        SiteLbl: Label '<qualifier>The Site,</qualifier><payload>Visite the site.<emphasize>Phantware Technology</emphasize></payload>';
 
         LoggedOnUsers: Label '<qualifier>Users,</qualifier><payload>The number of logged on users <emphasize> %1 </emphasize></payload>';
 }
