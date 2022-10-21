@@ -83,6 +83,31 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Booking Line - Field No of Nights - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Table 114432395 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>System Admin Cue</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table System Admin Cue - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 114432395 - Field 3506700171 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No of Users Logged On</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table System Admin Cue - Field No of Users Logged On - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 114432395 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table System Admin Cue - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 114432395 - Field 3331095576 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total No of Minutes Logged On</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table System Admin Cue - Field Total No of Minutes Logged On - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 114432395 - Field 2323586891 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total No of Minutes This Month</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table System Admin Cue - Field Total No of Minutes This Month - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Page 3496392619 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Booking</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -109,7 +134,7 @@
           <note from="Xliff Generator" annotates="general" priority="3">Page Headline RC System Admin - NamedType LoggedOnUsers</note>
         </trans-unit>
         <trans-unit id="Page 1676402639 - NamedType 3894558443" size-unit="char" translate="yes" xml:space="preserve">
-          <source>&lt;qualifier&gt;The Site,&lt;/qualifier&gt;&lt;payload&gt;Visite the site.&lt;emphasize&gt;Phantare Technology&lt;/emphasize&gt;&lt;/payload&gt;</source>
+          <source>&lt;qualifier&gt;The Site,&lt;/qualifier&gt;&lt;payload&gt;Visite the site.&lt;emphasize&gt;Phantware Technology&lt;/emphasize&gt;&lt;/payload&gt;</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Headline RC System Admin - NamedType SiteLbl</note>
         </trans-unit>
