@@ -94,7 +94,7 @@
           <note from="Xliff Generator" annotates="general" priority="3">Table System Admin Cue - Field No of Approved Entries - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 114432395 - Field 1325555480 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>No of EEntries Posted Today</source>
+          <source>No of Entries Posted Today</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table System Admin Cue - Field No of Entries Posted Today - Property Caption</note>
         </trans-unit>
@@ -159,27 +159,27 @@
           <note from="Xliff Generator" annotates="general" priority="3">Page System Admin Activities - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 1881899651 - Control 25536090 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specify the field for the sales done this month</source>
+          <source>Specifies the field for the sales done this month</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page System Admin Activities - Control Sales This Month - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 1881899651 - Control 3331095576 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specify the field for total number of minutes logged on</source>
+          <source>Specifies the field for total number of minutes logged on</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page System Admin Activities - Control Total No of Minutes Logged On - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 1881899651 - Control 2323586891 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specify the field for the total no of minutes this month</source>
+          <source>Specifies the field for the total no of minutes this month</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page System Admin Activities - Control Total No of Minutes This Month - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 1881899651 - Control 906833131 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specify the field for the total number of approved entries</source>
+          <source>Specifies the field for the total number of approved entries</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page System Admin Activities - Control No of Approved Entries - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 1881899651 - Control 1325555480 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specify the field for number of entries posted</source>
+          <source>Specifies the field for number of entries posted</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page System Admin Activities - Control No of Entries Posted Today - Property ToolTip</note>
         </trans-unit>

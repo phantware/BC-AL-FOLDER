@@ -32,7 +32,7 @@ table 50002 "System Admin Cue"
         }
         field(5; "No of Entries Posted Today"; Integer)
         {
-            Caption = 'No of EEntries Posted Today';
+            Caption = 'No of Entries Posted Today';
             DataClassification = ToBeClassified;
         }
         field(6; "No of Approved Entries"; Integer)

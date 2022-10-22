@@ -19,19 +19,19 @@ page 50005 "System Admin Activities"
                 ShowCaption = false;
                 field("Sales This Month"; Rec."Sales This Month")
                 {
-                    ToolTip = 'Specify the field for the sales done this month';
+                    ToolTip = 'Specifies the field for the sales done this month';
                     ApplicationArea = Suite;
                     DrillDownPageId = "Customer Ledger Entries";
                 }
                 field("Total No of Minutes Logged On"; Rec."Total No of Minutes Logged On")
                 {
-                    ToolTip = 'Specify the field for total number of minutes logged on';
+                    ToolTip = 'Specifies the field for total number of minutes logged on';
                     ApplicationArea = Suite;
                     DrillDownPageId = "User Time Registers";
                 }
                 field("Total No of Minutes This Month"; Rec."Total No of Minutes This Month")
                 {
-                    ToolTip = 'Specify the field for the total no of minutes this month';
+                    ToolTip = 'Specifies the field for the total no of minutes this month';
                     ApplicationArea = Suite;
                     DrillDownPageId = "Customer Ledger Entries";
                 }
@@ -46,13 +46,13 @@ page 50005 "System Admin Activities"
                 }
                 field("No of Entries Posted Today"; Rec."No of Entries Posted Today")
                 {
-                    ToolTip = 'Specify the field for number of entries posted';
+                    ToolTip = 'Specifies the field for number of entries posted';
                     ApplicationArea = Suite;
                     DrillDownPageId = "General Ledger Entries";
                 }
                 field("No of Approved Entries"; Rec."No of Approved Entries")
                 {
-                    ToolTip = 'Specify the field for the total number of approved entries';
+                    ToolTip = 'Specifies the field for the total number of approved entries';
                     ApplicationArea = Suite;
                     DrillDownPageId = "Approval Entries";
                 }
@@ -68,7 +68,7 @@ page 50005 "System Admin Activities"
 
                         trigger OnAction()
                         begin
-                            Hyperlink('https://phantware.tech');
+                            Hyperlink('https://www.phantware.tech');
                         end;
                     }
                 }
