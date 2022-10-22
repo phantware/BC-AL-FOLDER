@@ -14,6 +14,10 @@ page 50003 "System Admin Role Center"
                 Caption = 'System Admin Headline';
                 ApplicationArea = Basic, Suite;
             }
+            part(SystemAdminActivities; "System Admin Activities")
+            {
+                ApplicationArea = Basic, Suite;
+            }
         }
     }
 

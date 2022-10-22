@@ -4,7 +4,7 @@
 table 50002 "System Admin Cue"
 {
     Caption = 'System Admin Cue';
-    DataClassification = ToBeClassified;
+    DataClassification = CustomerContent;
 
     fields
     {
@@ -30,7 +30,22 @@ table 50002 "System Admin Cue"
             Caption = 'Total No of Minutes This Month';
             DataClassification = ToBeClassified;
         }
-
+        field(5; "No of Entries Posted Today"; Integer)
+        {
+            Caption = 'No of EEntries Posted Today';
+            DataClassification = ToBeClassified;
+        }
+        field(6; "No of Approved Entries"; Integer)
+        {
+            Caption = 'No of Approved Entries';
+            FieldClass = FlowField;
+            CalcFormula = count("Approval Entry" where(Status = const(Approved)));
+        }
+        field(7; "Sales This Month"; Decimal)
+        {
+            Caption = 'Sales This Month';
+            DataClassification = ToBeClassified;
+        }
     }
 
     keys
@@ -54,5 +69,36 @@ table 50002 "System Admin Cue"
             UserTimeReg.CalcSums(Minutes);
             MonthlyMinutes := UserTimeReg.Minutes
         end;
+    end;
+
+    /// <summary>
+    /// GetTheNoOfPostedEntries.
+    /// </summary>
+    /// <returns>Return variable PostedEntriesToday of type Integer.</returns>
+    procedure GetTheNoOfPostedEntries() PostedEntriesToday: Integer
+    var
+        GLEntry: Record "G/L Entry";
+    begin
+        GLEntry.Reset();
+        GLEntry.SetRange("Posting Date", Today);
+        PostedEntriesToday := GLEntry.Count()
+    end;
+
+    /// <summary>
+    /// CalcSalesThisMonth.
+    /// </summary>
+    /// <returns>Return variable Amount of type Decimal.</returns>
+    procedure CalcSalesThisMonth() Amount: Decimal
+    var
+        CustLedgEntry: Record "Cust. Ledger Entry";
+        CustLedgEntrySales: Query "Cust. Ledg. Entry Sales";
+    begin
+        // CustLedgEntrySales.SetRange(DocumentTypeFilter, CustLedgEntry."Document Type"::Invoice);
+        // CustLedgEntrySales.SetRange(PostingDateFilter, CalcDate('<-CM>', WorkDate()));
+        CustLedgEntrySales.Open();
+        if CustLedgEntrySales.Read() then
+            // Amount := CustLedgEntrySales.SumSalesLcy;
+        CustLedgEntrySales.Close();
+
     end;
 }
