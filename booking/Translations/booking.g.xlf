@@ -123,6 +123,876 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table System Admin Cue - Field Total No of Minutes This Month - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 740245572 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Administrator Role Center</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 739346273 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Group - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 4061016505 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open the Feature Management page.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Feature Management - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 4061016505 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Feature Management</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Feature Management - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 3461615370 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>System</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Group1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 1766334321 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Control Add-ins</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Control Add-ins - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 3703880805 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Devices</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Devices - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 2005578726 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Extension Management</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Extension Management - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 455697786 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mobile device activation and app</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Get the Mobile Device App (Tablet and Phone activatation code) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 1215073847 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open the Printer Management page.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Printer Management - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 1215073847 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Printer Management</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Printer Management - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 608136004 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Profiles (Roles)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Profiles - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 2250933955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>System Information</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action System Information - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 1919691214 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open the Table Information page.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Table Information - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 1919691214 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table Information</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Table Information - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 1548525519 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Application</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Group2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 662456783 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Application Area</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Application Area - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 799089619 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Assisted Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Assisted Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 4286163337 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bank Export/Import Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Bank Export/Import Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 1202895579 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Define your company policies for business departments and for general activities by filling setup windows manually.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Business Setup - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 1202895579 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Manual Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Business Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 2488342448 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cue Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Cue Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 525372965 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Sending Profiles</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Document Sending Profiles - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 1949822423 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Electronic Document Formats</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Electronic Document Formats - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 133985070 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Image Analysis Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Image Analysis Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 1024392521 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Online Map Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action MapPoint Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 2931714503 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Printer Selections</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Printer Selections - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 966690467 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer/Vendor/Item Templates</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Set Up Customer/Vendor/Item Templates - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 3279726208 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transformation Rules</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Transformation Rules - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 2186222136 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Microsoft Outlook</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Group3 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 545100287 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Outlook Synch. Entities</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Outlook Synch. Entities - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 750459794 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Outlook Synch. User Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Outlook Synch. User Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 1079737925 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Job Queue</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Group4 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 2043358040 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Job Queue Category List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Job Queue Category List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 942706168 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Job Queue Entries</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Job Queue Entries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 286097364 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Job Queue Log Entries</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Job Queue Log Entries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 1717434542 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Change Log</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Group5 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 80739734 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Change Log Entries</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Change Log - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 122919287 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Change Log Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Change Log Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 4099311987 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reporting</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Group6 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 2274420296 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Custom Report Layouts</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Custom Report Layouts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 486860866 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Report Settings</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Report Configuration - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 324870960 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Report Inbox</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Report Inbox - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 2855939321 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Report Layout Selection</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Report Layouts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 2307105622 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Report Selections Bank Account</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Report Selection - Bank Acc. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 2497942319 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Report Selections Purchase</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Report Selection Purchase - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 2719427013 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Report Selections Reminder/Fin. Charge</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Report Selection Reminder and - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 2118925754 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Report Selections Sales</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Report Selection Sales - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 4268985973 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Report Selections Service</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Report Selection Service - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 2345980193 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Report Selections Inventory</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Report Selections Inventory - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 3992721624 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Report Selections Prod. Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Report Selections Prod. Order - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 442041308 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Developer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Group7 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 833091333 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code Coverage</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Code Coverage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 3224338284 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sandbox Environment</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Sandbox Environment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 484775099 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Container Sandbox Environment</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Sandbox Environment1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 1513932930 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Test Tool</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Test Tool - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 974917505 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Users</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Group19 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 2550322126 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Permission Sets</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Permission Sets - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 3783154415 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User Groups</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action User Groups - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 1849231761 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User Settings</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action User Personalization - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 2587176309 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User Security Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action User Security Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 337631938 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action User Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 3797133345 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User Tasks</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action User Tasks - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 668934930 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Time Registers</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action User Time Registers - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 2183420390 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Users</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Users - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 3747500767 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Workflow</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Group20 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 4261702675 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Approval User Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Approval User Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 90230088 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Templates</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Group21 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 2304715839 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Workflow Categories</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Workflow Categories - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 2636297196 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Workflow Templates</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Workflow Templates - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 727926705 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Workflow Events</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Group22 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 1562677984 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Workflow Event Hierarchies</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action WF Event/Event Combinations - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 1018203741 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Workflow Event/Response Combinations</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action WF Event/Response Combinations - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 4110297223 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Workflow - Table Relations</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Workflow - Table Relations - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 1365623322 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Notifications</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Group23 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 4253332217 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Notification Entries</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Notification Entries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 3871310222 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Notification Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Notification Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 1252078661 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sent Notification Entries</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Sent Notification Entries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 2003319939 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entries/Archived</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Group24 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 3480666215 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Approval Entries</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Approval Entries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 2034955471 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Archived Workflow Step Instances</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Archived Workflow Step Instances - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 2860340105 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Overdue Approval Entries</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Overdue Approval Entries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 629930344 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Approval Entries</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Posted Approval Entries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 498264517 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Restricted Records</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Restricted Records - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 1124722253 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Workflow Step Instances</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Workflow Step Instances - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 2641016556 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Power Automate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Group25 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 3191652419 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Manage flows</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Workflows1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 809774974 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Flow Entries</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Workflows2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 3278713173 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dynamic Request Pages</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Group26 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 1334576886 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dynamic Request page Entities</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Dynamic Request page Entities - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 342519554 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dynamic Request page Fields</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Dynamic Request page Fields - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 749265535 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Incoming Documents Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Incoming Documents Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 691883121 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Send Overdue Approval Notifications</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Send Overdue Appr. Notif. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 2973814503 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Workflow User Groups</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Workflow User Group - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 2098662804 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Workflows</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Workflows - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 3916409790 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Services</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Group27 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 2721556489 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Account Schedule KPI Web Service</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Acc. Sched. KPI Web Service - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 761071839 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Account Schedule KPI Web Service Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Account Schedule KPI Web Servi - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 639522025 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>API Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action API Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 1730371156 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Currency Exchange Rate Services</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Currency Exchange Rate Services - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 3900577048 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Exchange Service Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Doc. Exch. Service Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 3592081654 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Set up email accounts used in the product.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Email Account Setup - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 3592081654 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Email Account Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Email Account Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 640271879 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Exchange Sync. Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Exchange Sync. Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 3758081753 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Integration Synchronization Errors</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Integration Synchronization Errors - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 1863810180 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Integration Synchronization Jobs</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Integration Synchronization Jobs - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 102629585 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Integration Table Mappings</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Integration Table Mappings - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 1533764477 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Microsoft Dynamics 365 Connection Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Microsoft Dynamics 365 Connection Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 2140522880 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>OCR Service Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action OCR Service Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 2844017388 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Office Add-in Management</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Office Add-In Management - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 1723770458 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Services</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Online Payments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 1369534469 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Service Connections</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Service Connections Overview - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 175913836 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SharePoint Connection Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action SharePoint Connection Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 3259574864 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mail Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action SMTP Mail Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 1668865451 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Registration Service (VIES) Setting</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action VAT Registration Service (VIES) Setting - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 2050619786 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Web Services</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Web Services - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 46176045 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Microsoft 365</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Group27A - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 2824583828 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Excel</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action GroupExcel - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 3813526208 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Excel Add-in Centralized Deployment</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Excel Add-in Centralized Deployment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 1439649641 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>OneDrive for Business</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action GroupOneDrive - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 3624811921 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>OneDrive Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action OneDrive Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 437329570 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Outlook and Exchange</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action GroupOutlook - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 3864282197 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Exchange Sync. Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Exchange Sync. Setup Action - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 497037478 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Outlook Add-in Centralized Deployment</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Outlook Add-in Centralized Deployment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 3217247251 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Outlook Add-in Management</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Outlook Add-in Management - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 4033624011 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Teams</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action GroupTeams - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 299887945 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Teams App Centralized Deployment</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Teams App Centralized Deployment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 259139111 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>RapidStart</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Group28 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 2623818989 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Configuration Questionnaire</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Config. Questionnaire - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 903958114 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Configuration Worksheet</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Configuration Worksheet - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 4217618544 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create Customer Journal Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Create Customer Journal Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 2291897181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create G/L Acc. Journal Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Create G/L acc. Journal Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 2587421159 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create Item Journal Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Create Item Journal Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 2357768776 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create Vendor Journal Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Create Vendor Journal Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 2467450871 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Configuration Packages</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Data Migration1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 891067076 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Configuration Templates</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Setup Master Templates - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 3630524393 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Group8 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 2419219762 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data Management</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Group10 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 4156613446 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data Encryption Management</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Field Encryption Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 1847942747 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Privacy for App Integrations</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Privacy for App Integrations - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 1370159336 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SEPA Schema Viewer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action SEPA Schema Viewer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 2409949549 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>XML Schemas</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action XML Schemas - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 1781523145 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data Migration</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Group11 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 3535806728 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data Migration</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Data Migration - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 3857729393 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data Migration Overview</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Data Migration Overview - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 418529171 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data Migration Settings</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Data Migration Settings - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 1143826528 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data Exchange</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Group12 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 1607869594 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data Exchange Definitions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Data Exchange Definition - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 1109257100 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data Exchange Types</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Data Exchange Types - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 1806981500 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Export to a Data File</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Export to a Data File - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 128304184 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import from a Data File</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Import from a Data File - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 506129911 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data Creation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Group13 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 675038934 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Contact Creation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Group14 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 1798013971 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create Contacts from Bank Accounts...</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Create Contacts from Bank Acco - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 3387258018 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create Contacts from Customers...</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Create Contacts from Customers - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 3562352314 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create Contacts from Vendors...</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Create Contacts from Vendors - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 37342317 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data Deletion</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Group15 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 3694612996 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date Compression</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Group16 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 3990446950 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date Compr. Registers</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Registers - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 3056916379 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Record Links</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Group17 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 3771259232 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delete Orphaned Record Links</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Delete Orphaned Record Links - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 1612614122 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customizations and Personalization</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Group18 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 2162107055 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Profile Customizations</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Profile Customizations - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 3890615169 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User Page Personalizations</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action User Page Personalizations - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 4268221010 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reference Data</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Group9 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 1926831969 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Base Calendar</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Base Calendar Entries Subform - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 339591043 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Companies</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Companies - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 3469146285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Company Information</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Company Information - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 105737358 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Countries/Regions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Countries/Regions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 1750020835 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Languages</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Languages - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 1351594800 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. Series</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action No. Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 2288457370 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Post Codes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Post Codes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 292193712 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Responsibility Centers</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Responsibility Centers - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 740245572 - Action 1817973778 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Territories</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Admin Role Center - Action Territories - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Page 3496392619 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Booking</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -237,6 +1107,11 @@
           <source>Booking Nos.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension SalesSetupExt - Field Booking Nos. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Profile 1180094158 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The Admin</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Profile Admin RTC - Property Caption</note>
         </trans-unit>
         <trans-unit id="Profile 807083378 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>System Administrator</source>
