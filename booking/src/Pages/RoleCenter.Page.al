@@ -18,6 +18,64 @@ page 50003 "System Admin Role Center"
             {
                 ApplicationArea = Basic, Suite;
             }
+            part("User Task Activities"; "User Tasks Activities")
+            {
+                ApplicationArea = Basic, Suite;
+            }
+            part("Emails"; "Email Activities")
+            {
+                ApplicationArea = Basic, Suite;
+            }
+            part(ApprovalActivities; "Approvals Activities")
+            {
+                ApplicationArea = Basic, Suite;
+            }
+            part(MyAccounts; "My Accounts")
+            {
+                ApplicationArea = Basic, Suite;
+            }
+            part(Customers; "My Customers")
+            {
+                ApplicationArea = Basic, Suite;
+            }
+            part(Vendors; "My Vendors")
+            {
+                ApplicationArea = Basic, Suite;
+            }
+            part(Items; "My Items")
+            {
+                ApplicationArea = Basic, Suite;
+            }
+            group(Control1900724708)
+            {
+                ShowCaption = false;
+            }
+            part(Control1020027; "Finance Performance")
+            {
+                ApplicationArea = Basic, Suite;
+            }
+            part(Control9; "Help And Chart Wrapper")
+            {
+                ApplicationArea = Basic, Suite;
+            }
+            part(Control100; "Cash Flow Forecast Chart")
+            {
+                ApplicationArea = Basic, Suite;
+            }
+            part(Control108; "Report Inbox Part")
+            {
+                AccessByPermission = TableData "Report Inbox" = IMD;
+                ApplicationArea = Basic, Suite;
+            }
+            part(Control122; "Power BI Embedded Report Part")
+            {
+                ApplicationArea = Basic, Suite;
+            }
+            // part(Control1901377608; MyNotes)
+            // {
+            //     ApplicationArea = Basic, Suite;
+            // }
+
         }
     }
 
